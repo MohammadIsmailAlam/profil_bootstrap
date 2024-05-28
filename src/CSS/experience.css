@@ -1,0 +1,15 @@
+.experience__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .experience__frontend {
+    text-align: center;
+  }
+  
+  .experience__details-icon {
+    margin-top: 6px;
+    color: var(--color-primary);
+  }
+  
