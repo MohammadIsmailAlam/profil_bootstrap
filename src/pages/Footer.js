@@ -55,7 +55,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright mb-4 text-light">
-        <small>&copy; 2023. All rights reserved By Mohammad Ismail Alam.</small>
+        <small>&copy; 2024. All rights reserved By Mohammad Ismail Alam.</small>
       </div>
     </footer>
   );
